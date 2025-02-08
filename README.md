@@ -1,10 +1,13 @@
-# Venuka
 
-<h1 align="center">Hi 👋, I'm Venuka Mahanama</h1>
+# <h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Hi There , I'm <a href="https://github.com/Venuka Mahanama">Venuka</h1>
+
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=muhammadfaizanhaidar&color=brightgreen" alt="watching_count" />
+ </p>
+    
 <h3 align="center">I am a Student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venukamahanama&label=Profile%20views&color=0e75b6&style=flat" alt="venukamahanama" /> </p>
-
 
 <h3 align="center"> 🌱 I’m currently learning Java , Python , C++ ect.:</h3>
 
